@@ -1,0 +1,12 @@
+{
+  "name": "com.etdofresh.unitypackages.eventbus",
+  "version": "0.0.0",
+  "displayName": "ETdoFresh EventBus",
+  "description": "A template for creating package libraries",
+  "type": "library",
+  "author": {
+    "name": "ETdoFresh",
+    "email": "ETdoFresh@gmail.com",
+    "url": "https://www.etdofresh.com"
+  }
+}
